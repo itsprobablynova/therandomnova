@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therandomnova
+- 👋 Hi, I’m @itsprobablynova
 - 👀 I’m interested in Engineering and Science
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord therandomnova
